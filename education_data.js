@@ -1,0 +1,1 @@
+let data = {"salary":{"('Female', \"Bachelor's\")":84799.4359756098,"('Female', 'High School')":38380.0784313726,"('Female', \"Master's\")":121537.5897435897,"('Female', 'PhD')":159728.7723577236,"('Male', \"Bachelor's\")":95876.3181818182,"('Male', 'High School')":43796.8679245283,"('Male', \"Master's\")":134512.6,"('Male', 'PhD')":161627.3440366972}};
